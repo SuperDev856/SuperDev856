@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, Welcome Stalker!
+My name is Liubomyr and I love building and breaking through things 🤔 also I am interested in developing complex web apps:
+- 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
+- 🌱 Interested in penetration testing on web apps (security aspects of web applications)
+contributor to open source projects : expressJS,viteJS,swagger-autogen etc.
+
+contributor to open source projects : expressJS,viteJS,swagger-autogen etc.
+
+
 
 <!--
 **devreact854/devreact854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
