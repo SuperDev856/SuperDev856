@@ -2,8 +2,10 @@
 ### About Me:
 My name is Liubomyr and I love building and breaking through things 🤔 also I am interested in developing complex web apps:
 - 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
+- 📫 I am also especially in Bubble.io development.
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
 - 💬 Ask me about web development, React, Node.js, and penetration testing.
+- ⚡ I am highly skill in developing chatbot and OpenAI.
   
 contributor to open source projects : expressJS,viteJS,swagger-autogen etc.
 
