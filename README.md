@@ -6,8 +6,9 @@ My name is Liubomyr and I love building and breaking through things 🤔 also I 
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
 - 💬 Ask me about web development, React, Node.js, and penetration testing.
 - ⚡ I am highly skill in developing chatbot and OpenAI.
+- ✨ I am also experienced in Golang for backend development and high-performance APIs.
   
-contributor to open source projects : expressJS,viteJS,swagger-autogen etc.
+contributor to open source projects : expressJS,viteJS,swagger-autogen, Golang-based tools, etc.
 
 
 ---
