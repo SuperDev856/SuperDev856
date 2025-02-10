@@ -7,6 +7,7 @@ My name is Liubomyr and I love building and breaking through things 🤔 also I 
 - 💬 Ask me about web development, React, Node.js, and penetration testing.
 - ⚡ I am highly skill in developing chatbot and OpenAI.
 - ✨ I am also experienced in Golang for backend development and high-performance APIs.
+- 👯 I am highly experienced in developing Ruby on Rails.
   
 contributor to open source projects : expressJS,viteJS,swagger-autogen, Golang-based tools, etc.
 
