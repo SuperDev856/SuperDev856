@@ -1,8 +1,11 @@
 # Hi there 👋, Welcome to my profile!
 ### About Me:
-My name is Vitalii and I love building and breaking through things 🤔 also I am interested in developing complex web apps and backend development such as Golang, Python, etc.
+My name is Anderson Gomes da Penha and I love building and breaking through things 🤔 also I am interested in developing complex web apps and backend development such as Golang, Python, etc.
 
 I am a *Python specialist* with expertise in *backend development*, *AI*, *automation*, and *API integrations*.
+
+I am Top 1% blockchain developer, experienced with Ethereum, Solidity, Web3.js, and building scalable blockchain infrastructures.
+
 - 🔭 I’m currently working on developing large, complex, scalable, and optimized web apps.
 - 📫 I am also especially in Bubble.io development.
 - 🌱 Interested in penetration testing on web apps (security aspects of web applications)
@@ -10,6 +13,7 @@ I am a *Python specialist* with expertise in *backend development*, *AI*, *autom
 - ⚡ I am highly skill in developing chatbot and OpenAI.
 - ✨ I am also experienced in Golang for backend development and high-performance APIs.
 - 👯 I am highly experienced in developing Ruby on Rails.
+- 🏅 Top 1% Blockchain Developer with extensive experience in developing decentralized applications (DApps), smart contracts, and blockchain-based solutions.
   
 contributor to open source projects : expressJS,viteJS,swagger-autogen, Golang-based tools, etc.
 
